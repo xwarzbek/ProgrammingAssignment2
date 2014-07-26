@@ -93,8 +93,8 @@ catSolve <- function(x) {
 ##> bob[2,1] - 0.4
 ## [1] -8.326673e-16 
 ## 
-## Will in general casue lots of headaches. 
-## We want our serach to be somewhat fuzzy
+## Will in general cause lots of headaches. 
+## We want our search to be somewhat fuzzy
   
       return(outMat)
       } 
